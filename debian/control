@@ -6,5 +6,5 @@ Build-Depends: debhelper (>= 9)
 
 Package: kimmo-gtk-theme
 Architecture: all
-Depends: gnome-themes-extra, gtk2-engines-murrine, gtk2-engines-pixbuf, libgtk3-dev, numix-gtk-theme, kimmo-icon-theme, arc-theme ${misc:Depends}
+Depends: gnome-themes-extra, gtk2-engines-murrine, gtk2-engines-pixbuf, libgtk3-dev, numix-gtk-theme, arc-theme ${misc:Depends}
 Description: The Kimmo GTK Theme for the Ubuntu Cinnamon Remix, created by Kimmo Kujansuu
