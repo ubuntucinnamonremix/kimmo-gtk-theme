@@ -2,9 +2,14 @@ Source: kimmo-gtk-theme
 Maintainer: Joshua Peisach <ubuntucinnamonremix7@gmail.com>
 Section: misc
 Priority: important
-Build-Depends: debhelper (>= 9)
+Build-Depends: debhelper (>= 12)
+Standards-Version: 4.4.0
+Homepage: https://github.com/ubuntucinnamon/kimmo-gtk-theme/
 
 Package: kimmo-gtk-theme
 Architecture: all
-Depends: gnome-themes-extra, gtk2-engines-murrine, gtk2-engines-pixbuf, libgtk3-dev, ${misc:Depends}
-Description: The Kimmo GTK Theme for the Ubuntu Cinnamon Remix, created by Kimmo Kujansuu
+Depends: gnome-themes-extra, gtk2-engines-murrine, gtk2-engines-pixbuf, ${misc:Depends}
+Description: Mix of Arc/Numix colored Orange to fit your GNOME/Cinnamon desktop
+ The Kimmo GTK Theme is a mixture of the Arc/Numix theme,
+ colored orange, looking great on all desktops.The theme has an
+ associated icon theme as well: kimmo-icon-theme
