@@ -1,0 +1,13 @@
+Package: kimmo-gtk-theme
+Version: 0.2-1
+Architecture: all
+Maintainer: Joshua Peisach <ubuntucinnamonremix7@gmail.com>
+Installed-Size: 36194
+Depends: gnome-themes-extra, gtk2-engines-murrine, gtk2-engines-pixbuf
+Section: misc
+Priority: important
+Homepage: https://github.com/ubuntucinnamon/kimmo-gtk-theme/
+Description: Mix of Arc/Numix colored Orange to fit your GNOME/Cinnamon desktop
+ The Kimmo GTK Theme is a mixture of the Arc/Numix theme,
+ colored orange, looking great on all desktops.The theme has an
+ associated icon theme as well: kimmo-icon-theme
